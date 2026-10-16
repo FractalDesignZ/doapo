@@ -64,4 +64,6 @@ Agents propose evidence. Humans **OPEN**. Gates fail closed. Residue is stated, 
 
 ## License
 
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE). Commercial use requires a separate license from the copyright holder, B. Jones (b.jones@jtech.ai). See [NOTICE](NOTICE).
+
 Independent project. Not affiliated with any operator, service company, or regulator beyond citing public NDIC / DMR data as measured substrate.
